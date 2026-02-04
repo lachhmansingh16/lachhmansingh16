@@ -42,20 +42,33 @@ I am a **Computer Systems Engineering Graduate** from **Mehran UET**, passionate
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Professional Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lachhmansingh16&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachhmansingh16&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Comp_Systems-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
+  <img src="https://img.shields.io/badge/Role-Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Experience-Freelancer-46a2f9?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-15+-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-6f42c1?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Specialty-AI_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Firebase_&_SQL-FFA611?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-success?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lachhman-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lachhman-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn" />
   </a>
   <a href="mailto:lachhmansingh980@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" alt="Gmail" />
   </a>
 </div>
