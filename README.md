@@ -1,17 +1,17 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineer;Flutter+%26+Java+Developer;Building+AI-powered+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineer;Software+Engineer;Java+Backend+Developer" alt="Typing SVG" />
   </a>
 
-  <h3>📱 Mobile Application Developer | 🤖 AI Automation Enthusiast</h3>
+  <h3>☕ Software Engineer | 💻 Java Backend Developer</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lachhmansingh16&label=Profile%20Views&color=0e75b6&style=flat-square" alt="lachhmansingh" />
   </p>
 
   <p>
-     <em>"Turning coffee into code and ideas into reality."</em> ☕
+     <em>"Architecting scalable backend solutions and writing clean, maintainable code."</em> ☕
   </p>
 
   ---
@@ -19,12 +19,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Systems Engineering Graduate** from **Mehran UET**, passionate about bridging the gap between mobile applications and artificial intelligence. My work focuses on building scalable cross-platform apps and integrating them with powerful backend logic and AI agents.
+I am a **Computer Systems Engineering Graduate** from **Mehran UET**[cite: 1], specializing in building reliable and scalable backend applications. My work primarily focuses on **Java** and the **Spring Boot** framework, designing normalized relational databases, and developing secure REST APIs[cite: 1].
 
-- 🔭 **Currently Building:** **"X-Spot"** – A social treasure-hunting app featuring Geolocation, Google Maps, and AR integration.
-- 🎓 **Final Year Project:** **"TrueMed"** – A counterfeit medicine detection system utilizing **YOLOv8** and Siamese Networks.
-- 💼 **Freelance:** specialized in **n8n** automation workflows and custom Flutter development on Fiverr/Upwork.
-- 👯 **Open Source:** Contributor to the **"hive"** AI agent project.
+- 💼 **Experience:** **Java Developer Intern** at Verior & **Java Development Fellow** at Bytewise Limited[cite: 1].
+- 🔭 **Featured Project:** **Student Management System** – A Java application leveraging OOP principles and JDBC-MySQL connectivity for efficient CRUD operations[cite: 1].
+- ⚙️ **Core Focus:** Spring Boot, Hibernate, REST API Development, and MySQL optimization[cite: 1].
+- 🌱 **Learning:** Continuously advancing my knowledge in modern software architecture, robust authentication practices, and scalable database structures[cite: 1].
 
 ---
 
@@ -32,11 +32,10 @@ I am a **Computer Systems Engineering Graduate** from **Mehran UET**, passionate
 
 <div align="center">
 
-| **Mobile Development** | **Backend & Databases** | **AI & Automation** |
+| **Languages & Fundamentals** | **Backend & Frameworks** | **Databases & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> | <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"/> <br> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/> |
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <br> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
-| | <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> | |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=databricks&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 
 </div>
 
@@ -47,18 +46,17 @@ I am a **Computer Systems Engineering Graduate** from **Mehran UET**, passionate
 <div align="center">
 
   <img src="https://img.shields.io/badge/Degree-B.E._Comp_Systems-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
-  <img src="https://img.shields.io/badge/Role-Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Java_Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <br>
 
-  <img src="https://img.shields.io/badge/Experience-Freelancer-46a2f9?style=for-the-badge&logo=upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-15+-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-6f42c1?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-Software_Engineer-46a2f9?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-Java_Backend-2EA44F?style=for-the-badge&logo=spring&logoColor=white" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Specialty-AI_Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Firebase_&_SQL-FFA611?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Specialty-Backend_Dev-FF6584?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL_&_SQL-FFA611?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Status-Open_To_Work-success?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
