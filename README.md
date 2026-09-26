@@ -19,12 +19,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Systems Engineering Graduate** from **Mehran UET**[cite: 1], specializing in building reliable and scalable backend applications. My work primarily focuses on **Java** and the **Spring Boot** framework, designing normalized relational databases, and developing secure REST APIs[cite: 1].
+I am a **Computer Systems Engineering Graduate** from **Mehran UET**, specializing in building reliable and scalable backend applications. My work primarily focuses on **Java** and the **Spring Boot** framework, designing normalized relational databases, and developing secure REST APIs.
 
-- 💼 **Experience:** **Java Developer Intern** at Verior & **Java Development Fellow** at Bytewise Limited[cite: 1].
-- 🔭 **Featured Project:** **Student Management System** – A Java application leveraging OOP principles and JDBC-MySQL connectivity for efficient CRUD operations[cite: 1].
-- ⚙️ **Core Focus:** Spring Boot, Hibernate, REST API Development, and MySQL optimization[cite: 1].
-- 🌱 **Learning:** Continuously advancing my knowledge in modern software architecture, robust authentication practices, and scalable database structures[cite: 1].
+- 💼 **Experience:** **Java Developer Intern** at Verior & **Java Development Fellow** at Bytewise Limited.
+- 🔭 **Featured Project:** **Student Management System** – A Java application leveraging OOP principles and JDBC-MySQL connectivity for efficient CRUD operations.
+- ⚙️ **Core Focus:** Spring Boot, Hibernate, REST API Development, and MySQL optimization.
+- 🌱 **Learning:** Continuously advancing my knowledge in modern software architecture, robust authentication practices, and scalable database structures.
 
 ---
 
