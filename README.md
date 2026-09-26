@@ -45,7 +45,7 @@ I am a **Computer Systems Engineering Graduate** from **Mehran UET**, specializi
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Degree-B.E._Comp_Systems-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Systems_Engineering-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
   <img src="https://img.shields.io/badge/Role-Java_Developer-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <br>
